@@ -21,11 +21,11 @@
     },
     "MONGO_URI": {
       "description": "Mongo DB connection URI for self-hosting your data.",
-      "required": true
+      "required": false
     },
     "LOG_URL": {
       "description": "The url of the log viewer app for viewing self-hosted logs.",
-      "required": true
+      "required": false
     }
   }
 }
